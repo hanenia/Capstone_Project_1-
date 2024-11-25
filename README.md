@@ -1,7 +1,7 @@
 ## Capstone_Project_1
 ## Hanna Anenia
 ## 10/27/2024
-mpact of Remote Work on Mental Health
+Impact of Remote Work on Mental Health
 
 ## Abstract
 This project analyzes the effects of remote work on mental health, examining stress, anxiety, and work-life balance.
